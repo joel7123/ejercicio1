@@ -1,0 +1,8 @@
+instalar vitejs:
+    npm create vite@latest
+    cd nombreproyecto
+    npm install
+    npm run dev
+
+dependencias:
+    npm i react-router-dom axios
